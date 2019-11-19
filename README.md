@@ -3,11 +3,11 @@
 
 ## Miembros del grupo:
 
-|  |No. Alumno | Apellidos | Nombre | Usuario Github | Código |
-| --- | --- | --- | --- | --- | --- |
+| No. Alumno | Apellidos | Nombre | Usuario Github | Código |
+| --- | --- | --- | --- | --- |
 |  1 |  Roizman Gheiler| Maor|  mrg2000| 201810323 |
 |  2 | Medina Medina | Eduardo Enrique | Marcuss17's | 201820033 |
-|  3 | Rebosio | Jorge | harmsen97 | JRebosio | 201820025 |
+|  3 | Rebosio Cumpa| Jorge Luis| JRebosio | 201820025 |
 
 
 ## Descrición del proyecto:
